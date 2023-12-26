@@ -1,0 +1,12 @@
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.deps.json
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.dll
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.pdb
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.csproj.AssemblyReference.cache
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.AssemblyInfoInputs.cache
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.AssemblyInfo.cs
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.csproj.CoreCompileInputs.cache
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.dll
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/refint/HRAdministrationAPI.dll
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.pdb
+/Users/yousifwali/Desktop/C#/Advanced/HRAdministrationAPI/obj/Debug/net7.0/ref/HRAdministrationAPI.dll
